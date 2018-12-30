@@ -1,0 +1,23 @@
+{
+  "name": "port3000",
+  "version": "1.0.0",
+  "description": "workboard for node js projects",
+  "main": "app.js",
+  "scripts": {
+    "test": "nodemon app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ronscotty/nodejs-projects.git"
+  },
+  "author": "cameron olson",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ronscotty/nodejs-projects/issues"
+  },
+  "homepage": "https://github.com/ronscotty/nodejs-projects#readme",
+  "dependencies": {
+    "express": "^4.16.4",
+    "pug": "^2.0.3"
+  }
+}
